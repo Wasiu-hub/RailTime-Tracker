@@ -1,0 +1,42 @@
+.landing-container {
+    background-color: #f3f3f3;
+    padding: 20px;
+  }
+  
+  .landing-content {
+    max-width: 80vw;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .landing-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
+  .landing-image {
+    max-width: 45%;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+  }
+  
+  .landing-text {
+    flex-grow: 1;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  
+  

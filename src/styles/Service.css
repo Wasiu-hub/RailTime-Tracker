@@ -1,0 +1,25 @@
+.service-container {
+    background-color: #f1f1f1;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .service-information li {
+    list-style: none;
+    font-size: 16px;
+  }
+
+  .service-information button {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #00a99d;
+    color: #fff;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
